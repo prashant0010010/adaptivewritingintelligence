@@ -1,0 +1,5 @@
+This report examines how short-form video affects the study habits of first-year students. The central argument is that frequent switching between video and coursework reduces the time students spend on sustained reading, because each switch carries a re-entry cost.
+
+Evidence for this claim comes from a small survey of forty students at one institution. Most respondents reported checking video apps between lectures, and about half said they found it harder to return to a long article afterwards. These figures are indicative only, since the sample is small and self-reported.
+
+However, the data do not show that video use causes poorer results. Students who already struggle with focus may simply use video more. A larger study with grades recorded over time would be needed to separate these explanations.
